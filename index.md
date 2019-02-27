@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Citizen Science Center Zurich
 
-You can use the [editor on GitHub](https://github.com/CitizenScienceCenter/citizensciencecenter.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This organisation holds all of the open source efforts of the [Citizen Science Center Zurich](https://citizenscience.ch)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The key repositories are:
 
-### Markdown
+* [Backend](https://github.com/CitizenScienceCenter/backend)
+* [Vuex-C3S](https://github.com/CitizenScienceCenter/vuex-c3s)
+* [Snapp](https://github.com/CitizenScienceCenter/snapp-site)
+* [Docs](https://github.com/CitizenScienceCenter/documentations) - available [here](https://docs.citizenscience.ch)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Shoutouts
 
-```markdown
-Syntax highlighted code block
+None of this work would be possible without these great projects and their help (either through open source tools or providing free access to open source orgs):
 
-# Header 1
-## Header 2
-### Header 3
+* ![img/browserstacklogo.png](https://browserstack.com) - Their tools allow testing on mobile devices that the budget of any company would struggle to afford. Creating a test suite to run on all Android and iOS devices, for example, means that none of our team is limited in the operating systems we develop on, nor on the phones we use
+* ![img/basecamp.png](https://basecamp.com) - Basecamp generously provides free project management to all not for profit and open source orgs, so we can link our development teams with every other member of the team. They are also just an awesome company.
+* ![img/github.png](https://github.com) - You are here, so you know it. These people are magical. Free everything for open source. The heart of our work would not exist or be available for you to use without them.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CitizenScienceCenter/citizensciencecenter.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with any of our software? Check out our [documentation](https://docs.citizenscience.ch) or [contact support](mailto:info@citizenscience.ch) and we’ll help you sort it out.
