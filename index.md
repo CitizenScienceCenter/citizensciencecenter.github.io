@@ -7,7 +7,7 @@ The key repositories are:
 * [Backend](https://github.com/CitizenScienceCenter/backend)
 * [Vuex-C3S](https://github.com/CitizenScienceCenter/vuex-c3s)
 * [Snapp](https://github.com/CitizenScienceCenter/snapp-site)
-* [Docs](https://github.com/CitizenScienceCenter/documentations) - available [here](https://docs.citizenscience.ch)
+* [Docs](https://github.com/CitizenScienceCenter/documentation) - available [here](https://docs.citizenscience.ch)
 
 ### Shoutouts
 
